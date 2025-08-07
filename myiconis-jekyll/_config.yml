@@ -1,0 +1,12 @@
+title: MyIconis
+email: contact@myiconis.com
+description: >-
+  Premium plant-based supplements. Live Free. Live Confident. Live Now.
+baseurl: ""
+url: "https://myiconis.com"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
